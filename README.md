@@ -5,8 +5,8 @@ um formulario de cadastro.
 # METODOLOGIA
 * Nos foi pedido para fazermos uma pesquisa em sites diversos, anotando as informacões de cadastro de cada  para usarmos como base para o nosso formulario, foram usados 3 sites como referencia.
 
-# INFORMACOES COLETADAS
-1º Site: Loja Skateshop Tribo
+# INFORMACÕES COLETADAS
+#  1º Site: Loja Skateshop Tribo
 
 * Campos identificados no cadastro desse site:
 * CPF/CNPJ
@@ -20,7 +20,7 @@ um formulario de cadastro.
 * Opções de frete de entrega
 * Formas de pagamento
 
-* 2º Site: SHEIN
+#  2º Site: SHEIN
 * Campos identificados no cadastro desse site:
 * Localização
 * Primeiro nome
@@ -37,7 +37,7 @@ um formulario de cadastro.
 * Condigo de cupom
 * Cartão presente
 
-* 3º Site: Skate dos sonhos
+# 3º Site: Skate dos sonhos
 
 * Campos identificados no cadastro desse site:
 * Cep
@@ -73,9 +73,11 @@ um formulario de cadastro.
 * estado
 
 # TECNOLOGIAS UTILIZADAS 
-* HTML 
+* VISUAL STUDIO CODE
 * BOOTSTRAP 5.2
 * GITHUB
+* GIT
+* HTML5
 
 # SITE BOOTSTRAP
 * https://getbootstrap.com/
